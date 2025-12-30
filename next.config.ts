@@ -1,7 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'export',
+  basePath: '/flashcard-app',
+  assetPrefix: '/flashcard-app'
+
 };
 
+module.exports = nextConfig;
 export default nextConfig;
