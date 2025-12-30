@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/flashcard-app/_next/:path+",
+        "destination": "/flashcard-app/study-mode/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
