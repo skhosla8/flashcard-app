@@ -1,7 +1,7 @@
 {
   "name": "flashcard-app",
   "version": "0.1.0",
-  "homepage": "https://skhosla8.github.io/flashcard-app/study-mode",
+  "homepage": "https://skhosla8.github.io/flashcard-app",
   "private": true,
   "scripts": {
     "dev": "next dev",

@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,16784,e=>{"use strict";var t=e.i(68650),i=e.i(94288),c=e.i(42343),r=e.i(99318);function u({children:e}){return(0,c.useEffect)(()=>{(0,r.redirect)("/study-mode")},[]),(0,t.jsx)(i.default,{children:(0,t.jsx)("main",{children:e})})}e.s(["default",()=>u])}]);

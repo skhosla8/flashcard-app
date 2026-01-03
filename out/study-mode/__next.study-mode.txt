@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[19165,["/flashcard-app/_next/static/chunks/9fd8c460135fb061.js","/flashcard-app/_next/static/chunks/04e1873ac2a553e7.js"],"default"]
 3:I[39158,["/flashcard-app/_next/static/chunks/9fd8c460135fb061.js","/flashcard-app/_next/static/chunks/04e1873ac2a553e7.js"],"default"]
-0:{"buildId":"Yty1QGsQLjT5L4aBC4JSb","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"D_mWp8FSnkG0iDOYa6H1v","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
